@@ -1,7 +1,7 @@
 
 # QOL Tweaks
 
-## 1. Vanilla Toggle Sprint (Windows 10 Only)
+## 1. Vanilla Toggle Sprint (Windows Only)
 Toggle Sprint is an accessibility that is currently present in Java Edition but not within Bedrock. This section will show you, how to enable toggle sprint in MCBE.
 
 1. Open `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt`.
@@ -26,7 +26,7 @@ keyboard_type_0_key.forward:87
 4. Then save the file.      
 **Note: This tweak will reset if you change your keybinds!**
 
-## 2. Disable Titlebar and Taskbar Previews when in Fullscreen Mode.
+## 2. Disable Titlebar and Taskbar Previews when in Fullscreen Mode. (Windows Only)
 This will show you, how to disable taskbar and titlebar previews when playing MCBE in fullscreen mode.
 ![image](https://user-images.githubusercontent.com/41850963/140021475-d045e817-165f-432c-9732-d6a2b49eb7d4.png)
 
