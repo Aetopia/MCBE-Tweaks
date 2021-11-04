@@ -42,6 +42,3 @@ This will show you, how to disable taskbar and titlebar previews when playing MC
 
 5. Add a DWORD value with the name of `AllowEdgeSwipe`:           
 ![image](https://user-images.githubusercontent.com/41850963/140021687-10bfaff7-53a0-4235-a16d-fba09bbaf325.png)
-
-
-  
