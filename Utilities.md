@@ -7,15 +7,22 @@ A MC Java like Launcher for Minecraft Bedrock Edition. Allows you to switch betw
 <b>GitHub Repository: https://github.com/BedrockLauncher/BedrockLauncher</b>                                
 <b>Download: https://github.com/BedrockLauncher/BedrockLauncher/release/latest</b>      
 
-## 2. MCLauncher
+## 2. <img src="https://avatars.githubusercontent.com/u/5191659?v=4" alt="drawing" width="25" height="25"/> MCLauncher
 A simple program that allows to you download and install any version of Minecraft Bedrock Edition along with the APPX files.
 
 
 **GitHub Repository: https://github.com/MCMrARM/mc-w10-version-launcher**          
 **Downloads: https://github.com/MCMrARM/mc-w10-version-launcher/releases**              
 
-## 3. MCBE Resolution Changer
+## 3. <img src="https://avatars.githubusercontent.com/u/41850963?v=4" alt="drawing" width="25" height="25"/> MCBE Resolution Changer
 An AHK script that allows you to play MC Bedrock at lower resolutions and improves performance.
 
 **GitHub Repository: https://github.com/Aetopia/MCBEResolutionManager**                                 
 **Releases: https://github.com/Aetopia/MCBEResolutionManager/releases/latest**         
+
+## 4. <img src="https://avatars.githubusercontent.com/u/5191659?v=4" alt="drawing" width="25" height="25"/> Minecraft Bedrock Launcher [Linux/MacOS] (Unofficial)
+A launcher that allows to play Minecraft Bedrock Edition on Linux/MacOS.
+
+**GitHub Repository: https://github.com/MCMrARM/mcpelauncher-linux**             
+**How to Install on Linux: https://mcpelauncher.readthedocs.io/en/latest/getting_started.html#appimage**            
+**How to Install on MacOS: https://mcpelauncher.readthedocs.io/en/latest/getting_started.html#macos**              
