@@ -23,7 +23,7 @@ and click on launch.
 
 * If you want to build the launcher yourself feel free to [view their GitHub Repository](https://github.com/notcarlton/OnixLauncher).
 
-* If you wish to use any other injector such as [Fate Injector](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe).
+* If you wish to use any other injector then you can use [Fate Injector](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe).
 
 ## Source
 **GitHub Repository for Onix Client's Files: https://github.com/bernarddesfosse/onixclientautoupdate**
