@@ -2,6 +2,13 @@
 
 ## Dependencies 
 
+# Join the Onix client discord server for support and to get access to the onixclient dll
+* (Vanity Link)[https://discord.gg/onixclient]
+* (Backup Link)[https://discord.gg/TFuGrd6qqy]
+
+* Have windows developer mode on
+![Imgur Image](https://i.imgur.com/j2vGA9Z.png)
+
 
 ## How to install
 To install you just download the [Onix Launcher](https://raw.githubusercontent.com/bernarddesfosse/onixclientautoupdate/main/OnixLauncher.exe)
