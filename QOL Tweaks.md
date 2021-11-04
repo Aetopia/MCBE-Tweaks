@@ -43,5 +43,24 @@ This will show you, how to disable taskbar and titlebar previews when playing MC
 5. Add a DWORD value with the name of `AllowEdgeSwipe`:           
 ![image](https://user-images.githubusercontent.com/41850963/140021687-10bfaff7-53a0-4235-a16d-fba09bbaf325.png)
 
-
+## 3. Turn off vsync (Windows Only)
   
+1. Open `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt`
+
+2. Navigate to this section within the `options.txt` file:
+```
+gfx_gamma:0.5
+gfx_multithreaded_renderer:1
+gfx_vsync:1
+gfx_async_texture_loads:1
+gfx_show_async_texture_loads:0
+```
+
+3. Change `gfx_vsync=1` to `gfx_vsync=0`
+```
+gfx_gamma:0.5
+gfx_multithreaded_renderer:1
+gfx_vsync:0
+gfx_async_texture_loads:1
+gfx_show_async_texture_loads:0
+```
