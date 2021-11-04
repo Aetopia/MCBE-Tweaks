@@ -7,7 +7,7 @@ A MC Java like Launcher for Minecraft Bedrock Edition. Allows you to switch betw
 <b>GitHub Repository: https://github.com/BedrockLauncher/BedrockLauncher</b>                                
 <b>Download: https://github.com/BedrockLauncher/BedrockLauncher/release/latest</b>      
 
-## 2. <img src="https://avatars.githubusercontent.com/u/5191659?v=4" alt="drawing" width="25" height="25"/>. MCLauncher
+## 2. <img src="https://avatars.githubusercontent.com/u/5191659?v=4" alt="drawing" width="25" height="25"/> MCLauncher
 A simple program that allows to you download and install any version of Minecraft Bedrock Edition along with the APPX files.
 
 
