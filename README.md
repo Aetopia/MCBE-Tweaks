@@ -9,5 +9,5 @@ This repository contains a list of tweaks for MCBE.
 <b>2. [Utilities](https://github.com/Aetopia/MCBE-Tweaks/blob/main/Utilities.md)</b>        
 > Programs that add additional functionality into MCBE.
 
-<b>3. Performance Tweaks</b>          
+<b>3. [Performance Tweaks](https://github.com/Aetopia/MCBE-Tweaks/blob/main/Performance%20Tweaks.md)</b>          
 > Tweaks for better performance when running MCBE.
