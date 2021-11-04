@@ -19,3 +19,9 @@ An AHK script that allows you to play MC Bedrock at lower resolutions and improv
 
 **GitHub Repository: https://github.com/Aetopia/MCBEResolutionManager**                                 
 **Releases: https://github.com/Aetopia/MCBEResolutionManager/releases/latest**         
+
+## 4. Minecraft Bedrock Launcher (Linux/MacOS)
+A launcher that utilizes android builds of minecraft to run minecraft on linux.
+**GitHub repository: https://github.com/MCMrARM/mcpelauncher-linux**
+**How to install on linux: https://mcpelauncher.readthedocs.io/en/latest/getting_started.html#appimage**
+**How to install on MacOS: https://mcpelauncher.readthedocs.io/en/latest/getting_started.html#macos**
