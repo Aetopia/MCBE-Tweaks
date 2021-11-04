@@ -4,7 +4,7 @@
 ## 1. Vanilla Toggle Sprint (Windows Only)
 Toggle Sprint is an accessibility that is currently present in Java Edition but not within Bedrock. This section will show you, how to enable toggle sprint in MCBE.
 
-1. Open `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt`.
+1. Open `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt`
 
 2. Navigate to this section within the `options.txt` file:
 ```
