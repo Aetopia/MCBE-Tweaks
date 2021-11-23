@@ -21,3 +21,4 @@ gfx_vsync:0
 gfx_async_texture_loads:1
 gfx_show_async_texture_loads:0
 ```
+4. Save the  `options.txt` file.
