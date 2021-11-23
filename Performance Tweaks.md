@@ -1,6 +1,6 @@
 # Performance Tweaks
 
-## 1. Turn Off VSync (Windows Only)
+## 1. Turn Off VSync
   
 1. Open `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt`
 
@@ -29,7 +29,7 @@ This application allows you to play MC Bedrock at a lower resolution, which migh
 
 Download + Guide: https://github.com/Aetopia/MCBEResolutionManager
 
-## 3. Onix Client (Windows Only)
+## 3. Onix Client
 ![image](https://user-images.githubusercontent.com/41850963/143071569-33c923ce-1280-4e6a-b353-ff30180f4f93.png)                   
 
 ### Render Options  
