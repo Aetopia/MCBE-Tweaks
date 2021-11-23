@@ -23,7 +23,7 @@ gfx_show_async_texture_loads:0
 ```
 4. Save the  `options.txt` file.
 
-## 3. MCBE Resolution Changer
+## 2. MCBE Resolution Changer
 This application allows you to play MC Bedrock at a lower resolution, which might help to improve performance on low end machines.
 ![image](https://user-images.githubusercontent.com/41850963/143073976-30d4102d-abbf-4f1a-bfcb-5b18d8d066ab.png)    
 
